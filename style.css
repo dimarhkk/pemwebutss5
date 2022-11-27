@@ -4,6 +4,11 @@
 }
 body {
     font-family: 'Montserrat' , sans-serif;
+{
+overflow-y: scroll;
+scroll-behavior: smooth;
+}
+	
 }
 .homepage {
     background: url(img/windows-11-desert-landscape-scenery-sunrise-stock-day-light-3840x2400-5654.jpg)100%;
