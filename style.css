@@ -5,10 +5,6 @@
 body {
     font-family: 'Montserrat' , sans-serif;
 	
-html{
-    scroll-behavior: smooth;
-}
-	
 }
 .homepage {
     background: url(img/windows-11-desert-landscape-scenery-sunrise-stock-day-light-3840x2400-5654.jpg)100%;
@@ -313,4 +309,8 @@ footer {
     background-color: #06283D;
     height: 25px;
     padding-top: 15px;
+}
+
+html{
+    scroll-behavior: smooth;
 }
